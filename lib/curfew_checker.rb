@@ -34,6 +34,7 @@ def deluxe_curfew_checker(time)
     puts "You're in trouble! Better get home quick!"
   else 
 end
+end
 
 def platinum_curfew_checker(current_time, curfew_time)
   if current_time == 11 && curfew_time == 11
